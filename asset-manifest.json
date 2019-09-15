@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/smart-campus-website/static/css/main.910ff3b8.chunk.css",
+    "main.js": "/smart-campus-website/static/js/main.f38070a4.chunk.js",
+    "main.js.map": "/smart-campus-website/static/js/main.f38070a4.chunk.js.map",
+    "runtime~main.js": "/smart-campus-website/static/js/runtime~main.814358b6.js",
+    "runtime~main.js.map": "/smart-campus-website/static/js/runtime~main.814358b6.js.map",
+    "static/css/2.0fd579bc.chunk.css": "/smart-campus-website/static/css/2.0fd579bc.chunk.css",
+    "static/js/2.7459afb7.chunk.js": "/smart-campus-website/static/js/2.7459afb7.chunk.js",
+    "static/js/2.7459afb7.chunk.js.map": "/smart-campus-website/static/js/2.7459afb7.chunk.js.map",
+    "index.html": "/smart-campus-website/index.html",
+    "precache-manifest.35c8f14cac3bfc0ad379fad63d78f340.js": "/smart-campus-website/precache-manifest.35c8f14cac3bfc0ad379fad63d78f340.js",
+    "service-worker.js": "/smart-campus-website/service-worker.js",
+    "static/css/2.0fd579bc.chunk.css.map": "/smart-campus-website/static/css/2.0fd579bc.chunk.css.map",
+    "static/css/main.910ff3b8.chunk.css.map": "/smart-campus-website/static/css/main.910ff3b8.chunk.css.map",
+    "static/media/material-1.jpg": "/smart-campus-website/static/media/material-1.4e78050e.jpg",
+    "static/media/material-2.png": "/smart-campus-website/static/media/material-2.0b8222d4.png",
+    "static/media/material-3.jpg": "/smart-campus-website/static/media/material-3.daf86e8d.jpg",
+    "static/media/material-4.jpg": "/smart-campus-website/static/media/material-4.305c2ac7.jpg",
+    "static/media/pin-logo.b3db6425.svg": "/smart-campus-website/static/media/pin-logo.b3db6425.svg",
+    "static/media/index.css": "/smart-campus-website/static/media/roboto-latin-900italic.ebf6d164.woff2",
+    "static/media/sliders-logo.7816ac0b.svg": "/smart-campus-website/static/media/sliders-logo.7816ac0b.svg",
+    "static/media/website-logo.8d1a2df9.svg": "/smart-campus-website/static/media/website-logo.8d1a2df9.svg"
+  }
+}
