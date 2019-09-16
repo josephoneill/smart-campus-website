@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "618b3ffb98715f9dbeec32b5747014f9",
+    "revision": "f54b8dcf80bc533d90cc374b393704e9",
     "url": "/smart-campus-website/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/smart-campus-website/static/css/2.0fd579bc.chunk.css"
   },
   {
-    "revision": "5dfc70a1aac2eb8c051c",
-    "url": "/smart-campus-website/static/css/main.910ff3b8.chunk.css"
+    "revision": "3b6095e33f4659c12ab0",
+    "url": "/smart-campus-website/static/css/main.db9b6336.chunk.css"
   },
   {
     "revision": "c9420d9411beded528e8",
     "url": "/smart-campus-website/static/js/2.7459afb7.chunk.js"
   },
   {
-    "revision": "5dfc70a1aac2eb8c051c",
-    "url": "/smart-campus-website/static/js/main.f38070a4.chunk.js"
+    "revision": "3b6095e33f4659c12ab0",
+    "url": "/smart-campus-website/static/js/main.df546fb9.chunk.js"
   },
   {
     "revision": "3f8dbc8b3d48e8f498e3",
