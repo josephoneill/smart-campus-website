@@ -103,7 +103,7 @@ function Home() {
       </div>
 
       <div className="home-info-layer-2">
-        <Grid container spacing={4} style={{padding:"4rem 3rem 0rem 3em"}}>
+        <Grid container spacing={4} className="home-info-layer-2-grid">
 
           <Grid item xs className="home-info-layer-2-grid-item">
             <Card className="home-info-layer-2-card">
