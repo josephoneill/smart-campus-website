@@ -20,7 +20,7 @@
 
 .home-info-layer-1 {
     margin: 0rem 1rem 0rem 1rem;
-    padding: 11rem 0rem 10rem 0rem;
+    padding: 7rem 0rem 10rem 0rem;
 }
 
 .home-info-layer-2 {
@@ -33,81 +33,24 @@
     background: #263238;
 }
 
-.home-info-layer-1-grid-item {
-    height: 32rem;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-
-    animation: fadein 1s, slide-in 1s;
-    -moz-animation: fadein 1s, slide-in 1s;
-    -webkit-animation: fadein 1s, slide-in 1s;
-    -o-animation: fadein 1s, slide-in 1s;
+.officer-image {
+    width:20rem;
+    height: auto;
+    clip-path: circle();
 }
 
-.home-info-layer-1-logo {
-    width: 20rem;
-    height: 20rem;
+.circular--portrait {
+    position: relative;
+    overflow: hidden;
+    width: 260px;
+    height: 260px;
+    border-radius: 50%;
+    border: 1px solid black;
 }
 
-.home-info-layer-1-logo-details {
-    width: 20rem;
-    padding: 1rem 1rem 1rem 0.5rem;
-}
-
-.home-info-layer-1-logo-details h2 {
-    font-size: 2em;
-    font-weight: 400;
-    color: #424242;
-}
-
-.home-info-layer-1-logo-details p {
-    font-weight: 300;
-    line-height: 1.5rem;
-}
-
-.home-info-layer-2-grid {
-    padding : 4rem 3rem 0rem 3em;
-}
-
-.home-info-layer-2-card {
-    margin: 1rem;
-    min-width: 25rem;
-    max-width: 40rem;
-}
-
-.home-info-layer-2-card h2 {
-    font-weight: 300;
-    font-size: 1.7rem;
-}
-
-.home-info-layer-2-card img {
+.circular--portrait img {
     width: 100%;
-    height: 20em;
-}
-
-.home-info-layer-2-card-details {
-    display: flex;
-    flex-direction: column;
-    min-height: 10rem;
-    text-align: left;
-    padding: 0rem 1rem 1rem 0.5rem;
-}
-
-.home-info-layer-2-card-details p {
-    margin: 1rem 1rem 0rem 0.5rem;
-    font-weight: 300;
-    font-size: 1.2rem;
-}
-
-.home-info-layer-2-card-details a {
-    margin-top: 1rem;
-    font-weight: 500;
-    font-size: 1.2rem;
-    text-align: right;
-    text-decoration: none;
-    color: #2196f3;
+    height: auto;
 }
 
 
@@ -133,34 +76,6 @@
         color:white;
         font-weight: 300;
         margin: 0;
-    }
-    
-    .home-info-layer-2-card {
-        margin: 0;
-        max-width: 100%;
-        min-width: 100%;
-        width: 100%;
-        color: green;
-        /* Disable auto-applied border radius */
-        border-radius: 0 !important;
-    }
-
-    .home-info-layer-2-grid {
-        padding : 0;
-        /* The grid will auto apply -16 margins, disable that on mobile */
-        margin: 0 !important;
-        /* The grid will auto calculate the width (for material design standards) which does not work nicely on mobile */
-        width: 100% !important;
-    }
-
-    .home-info-layer-2-grid-item {
-        width: 100%;
-        max-width: 100%;
-        min-width: 100%;
-        /* The grid will auto apply 16 padding, disable that on mobile */
-        padding: 0 !important;
-        /* Override the grid item's default margin */
-        margin-top: 1rem !important;
     }
 }
 

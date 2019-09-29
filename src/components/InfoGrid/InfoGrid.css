@@ -1,0 +1,17 @@
+.info-grid-item {
+    height: 32rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4rem !important;
+
+    animation: fadein 1s, slide-in 1s;
+    -moz-animation: fadein 1s, slide-in 1s;
+    -webkit-animation: fadein 1s, slide-in 1s;
+    -o-animation: fadein 1s, slide-in 1s;
+}
+
+@media only screen and (max-width: 860px) {
+    
+}
